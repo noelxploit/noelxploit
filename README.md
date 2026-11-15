@@ -26,7 +26,7 @@ Build cool stuff. Break things responsibly. Report them.
 - 🔭 Currently building **[Xone.id](https://xoneid.netlify.app)**
 - 🐞 Bug hunting & security research
 - 📱 Android dev (Kotlin) & frontend
-- 🏢 CEO of **NSX**
+- 🏢 Founder Xone.id
 - 👯 Open to collaborate on **NSX** projects
 - ⚡ Fun fact: I code a lot from my phone
 
